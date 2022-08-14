@@ -14,3 +14,5 @@ Package.json is also provided.
 - axios
 
 ## Image
+
+![1](https://user-images.githubusercontent.com/104715456/184554426-58e1cb50-8280-4cbf-935c-9519842bf913.PNG)
